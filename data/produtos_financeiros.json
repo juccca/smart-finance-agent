@@ -1,10 +1,18 @@
 [
   {
+    "nome": "Poupança",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "70% da Selic + TR",
+    "aporte_minimo": 1.00,
+    "indicado_para": "Primeiro contato com guardar dinheiro, apesar do rendimento limitado"
+  },
+  {
     "nome": "Tesouro Selic",
     "categoria": "renda_fixa",
     "risco": "baixo",
     "rentabilidade": "100% da Selic",
-    "aporte_minimo": 30.00,
+    "aporte_minimo": 36.50,
     "indicado_para": "Reserva de emergência e iniciantes"
   },
   {
